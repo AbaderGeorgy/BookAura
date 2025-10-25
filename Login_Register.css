@@ -303,6 +303,7 @@ form {
     border: 2px solid #fff;
     box-shadow: none;
 }
+/* شاشة تحميل */
 #loading {
     position: fixed;
     top: 0;
@@ -316,6 +317,7 @@ form {
     z-index: 9999;
 }
 
+/* شكل الدائرة المتحركة */
 .loader {
     border: 8px solid #f3e0c2;
     border-top: 8px solid #194850;
